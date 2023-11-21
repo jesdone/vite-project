@@ -1,5 +1,5 @@
 // Jes Donnelly
-// Brick Breaker React 
+// Brick Breaker React
 
 import React, { useEffect, useState } from "react";
 
